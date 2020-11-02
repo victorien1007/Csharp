@@ -1,0 +1,5 @@
+C:\Users\lenovo\source\repos\StrMessage\StrMessage\bin\Debug\StrMessage.dll
+C:\Users\lenovo\source\repos\StrMessage\StrMessage\bin\Debug\StrMessage.pdb
+C:\Users\lenovo\source\repos\StrMessage\StrMessage\obj\Debug\StrMessage.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\StrMessage\StrMessage\obj\Debug\StrMessage.dll
+C:\Users\lenovo\source\repos\StrMessage\StrMessage\obj\Debug\StrMessage.pdb
